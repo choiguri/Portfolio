@@ -22,31 +22,27 @@
 
 ### [🕹️ Project_PBL](./Project_PBL/)
 <a href="https://youtu.be/-3ciZHhTgDc">
-  <img src="./Source/Image/PBL_thumbnail.png" alt="PBL 썸네일" width="300"/>
+  <img src="./Source/Image/PBL_thumbnail.png" alt="PBL 썸네일" height="200"/>
 </a>
-<ul>
-  <li><strong>간단 소개</strong> : Unreal Engine 기반 TPS 장르 보스레이드</li>
-  <li><strong>개발 인원</strong> : 5명</li>
-  <li><strong>맡은 역할</strong> : 보스 몬스터 구현, AI 행동 트리 설계 등</li>
-</ul>
+- 간단 소개 : Unreal Engine 기반 TPS 장르 보스레이드
+- 개발 인원 : 5명
+- 맡은 역할 : 보스 몬스터 구현, AI 행동 트리 설계 등
 
 
 ### [🛡️ Project_TriForge](./Project_TriForge/)
 <a href="https://youtu.be/lo1SQH9PyY0">
-  <img src="./Source/Image/TriForge_thumbnail.png" alt="TriForge 썸네일" width="300"/>
+  <img src="./Source/Image/TriForge_thumbnail.png" alt="TriForge 썸네일" height="200"/>
 </a>
-<ul>
-  <li><strong>간단 소개</strong> : 3D 액션 게임</li>
-  <li><strong>개발 인원</strong> : 3명</li>
-  <li><strong>맡은 역할</strong> : AWS server 관리, 네트워크 관리, 진행 규칙 관리, UI 등</li>
-</ul>
+- 간단 소개 : 3D 액션 게임
+- 개발 인원 : 3명
+- 맡은 역할 : AWS server 관리, 네트워크 관리, 진행 규칙 관리, UI 등
 
 
 
 ## 📌 자격증 / 수상 (Certifications / Awards)
 
 ### Unity Certified User: Programmer
-[![자격증 이미지](./Source/Image/unity-certified-user-programmer.png)](https://www.credly.com/badges/66087beb-5e31-41a6-aa80-5e04aa4ca27e/public_url)
+<a href="https://www.credly.com/badges/66087beb-5e31-41a6-aa80-5e04aa4ca27e/public_url"><img src="./Source/Image/unity-certified-user-programmer.png" height="200">
 - 2023.11 / Unity Technologies
 
 ### 경상국립대학교 2024 2학기 캡스톤디자인 경진대회
