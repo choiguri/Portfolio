@@ -20,14 +20,14 @@
 
 ## 📁 프로젝트 (Projects)
 
-### [🕹️ Project_PBL](./Project_PBL/)
+### [🕹️ Project_PBL](https://github.com/choiguri/GNU_PBL)
 <a href="https://youtu.be/-3ciZHhTgDc"><img src="./Source/Image/PBL_thumbnail.png" height="200"/>
 - 간단 소개 : Unreal Engine 기반 TPS 장르 보스레이드
 - 개발 인원 : 5명
 - 맡은 역할 : 보스 몬스터 구현, AI 행동 트리 설계 등
 
 
-### [🛡️ Project_TriForge](./Project_TriForge/)
+### [🛡️ Project_TriForge](https://github.com/pju0205/TriForge)
 
 
 <a href="https://youtu.be/lo1SQH9PyY0"><img src="./Source/Image/TriForge_thumbnail.png" height="200"/>
