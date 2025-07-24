@@ -21,19 +21,23 @@
 ## 📁 프로젝트 (Projects)
 
 ### [🕹️ Project_PBL](./Project_PBL/)
-[![PBL 썸네일](./Source/Image/PBL_thumbnail.png)](https://youtu.be/-3ciZHhTgDc)
+<a href="https://youtu.be/-3ciZHhTgDc">
+  <img src="./Source/Image/PBL_thumbnail.png" alt="PBL 썸네일" width="300"/>
+</a>
 - 간단 소개 : Unreal Engine 기반 TPS 장르 보스레이드
 - 개발 인원 : 5명
 - 맡은 역할 : 보스 몬스터 구현, AI 행동 트리 설계 등
 
 
 ### [🛡️ Project_TriForge](./Project_TriForge/)
-[![TriForge 썸네일](./Source/Image/TriForge_thumbnail.png)](https://youtu.be/lo1SQH9PyY0) 
+<a href="https://youtu.be/lo1SQH9PyY0">
+  <img src="./Source/Image/TriForge_thumbnail.png" alt="TriForge 썸네일" width="300"/>
+</a>
 - 간단 소개 : 3D 액션 게임
 - 개발 인원 : 3명
 - 맡은 역할 : AWS server 관리, 네트워크 관리, 진행 규칙 관리, UI 등
 
-unity-certified-user-programmer
+
 
 ## 📌 자격증 / 수상 (Certifications / Awards)
 
